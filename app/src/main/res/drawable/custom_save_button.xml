@@ -1,0 +1,11 @@
+<!-- res/drawable/save_button_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Solid green background -->
+    <solid android:color="#FF43A047" /> <!-- Green color -->
+
+    <!-- Rounded corners (adjust radius as needed) -->
+    <corners android:radius="8dp" />
+
+</shape>

@@ -1,0 +1,11 @@
+<!-- res/drawable/button_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Solid blue background -->
+    <solid android:color="#2196F3" /> <!-- Bright blue color -->
+
+    <!-- Rounded corners (adjust radius as needed) -->
+    <corners android:radius="8dp" />
+
+</shape>

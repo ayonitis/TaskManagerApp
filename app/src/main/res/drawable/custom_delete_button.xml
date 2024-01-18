@@ -1,0 +1,11 @@
+<!-- res/drawable/delete_button_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Solid deep red background -->
+    <solid android:color="#870606" /> <!-- Deep red color -->
+
+    <!-- Rounded corners (adjust radius as needed) -->
+    <corners android:radius="8dp" />
+
+</shape>
